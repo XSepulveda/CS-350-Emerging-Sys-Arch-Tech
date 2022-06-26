@@ -23,7 +23,7 @@
   
  **6. How did you make this project maintainable, readable, and adaptable?**
  
-  
+  I tried to leave comments where necessary, so that other readers can easily know what the purpose of that block of code is doing. This helps me alot, and saves time when looking atunfamiliar unfamiliar code.
 
 
   
